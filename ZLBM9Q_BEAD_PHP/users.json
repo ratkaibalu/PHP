@@ -1,0 +1,42 @@
+{
+    "userid0": {
+        "username": "admin",
+        "email": "admin@elstadion.hu",
+        "password": "admin"
+    },
+    "userid1": {
+        "username": "Margit",
+        "email": "margitka@gmail.com",
+        "password": "margit21"
+    },
+    "userid2": {
+        "username": "Pista b\u00e1",
+        "email": "pista@gmail.com",
+        "password": "pista01"
+    },
+    "userid3": {
+        "username": "Para Zita",
+        "email": "paraz@gmail.com",
+        "password": "parazita11"
+    },
+    "userid4": {
+        "username": "Minden \u00c1ron",
+        "email": "aronka@gmail.com",
+        "password": "aronminden2"
+    },
+    "userid5": {
+        "username": "Gipsz Jakab",
+        "email": "gipszjakab@valami.hu",
+        "password": "asd"
+    },
+    "userid6": {
+        "username": "Ödön11",
+        "email": "odon@citromail.com",
+        "password": "dsa"
+    },
+    "userid7": {
+        "username": "Peti234",
+        "email": "banana@freemail.com",
+        "password": "dsa"
+    }
+}

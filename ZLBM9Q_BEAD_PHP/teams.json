@@ -1,0 +1,52 @@
+{
+    "Vasas": {
+        "id": "teamid1",
+        "name": "Vasas FC",
+        "city": "Budapest"
+    },
+    "Ajka": {
+        "id": "teamid2",
+        "name": "FC Ajka",
+        "city": "Ajka"
+    },
+    "Cs\u00e1kv\u00e1r": {
+        "id": "teamid3",
+        "name": "Aqvital FC Cs\u00e1kv\u00e1r",
+        "city": "Cs\u00e1kv\u00e1r"
+    },
+    "P\u00e9csi": {
+        "id": "teamid4",
+        "name": "P\u00e9csi Mecsek FC",
+        "city": "P\u00e9cs"
+    },
+    "B\u00e9k\u00e9scsaba": {
+        "id": "teamid5",
+        "name": "B\u00e9k\u00e9scsaba 1912 El\u0151re",
+        "city": "B\u00e9k\u00e9scsaba"
+    },
+    "Dorog": {
+        "id": "teamid6",
+        "name": "Dorogi FC",
+        "city": "Dorog"
+    },
+    "Kecskem\u00e9ti": {
+        "id": "teamid7",
+        "name": "Kecskem\u00e9ti TE",
+        "city": "Kecskem\u00e9t"
+    },
+    "Soroks\u00e1r": {
+        "id": "teamid8",
+        "name": "Soroks\u00e1r SC",
+        "city": "Soroks\u00e1r"
+    },
+    "Si\u00f3fok": {
+        "id": "teamid9",
+        "name": "BFC Si\u00f3fok",
+        "city": "Si\u00f3fok"
+    },
+    "Gy\u0151ri": {
+        "id": "teamid10",
+        "name": "Gy\u0151ri ETO FC",
+        "city": "Gy\u0151r"
+    }
+}
